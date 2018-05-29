@@ -1,4 +1,4 @@
-Speed Core staging tree 1.0.0.3
+Speed Core staging tree 1.0.5.0
 ===============================
 
 What is Speed?
