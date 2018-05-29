@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Speed
+Comment=Speed P2P Cryptocurrency
+Comment[fr]=Speed, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Speed, eşten eşe kriptografik sanal para birimi
+Exec=speed-qt %u
+Terminal=false
+Type=Application
+Icon=speed128
+MimeType=x-scheme-handler/speed;
+Categories=Office;Finance;

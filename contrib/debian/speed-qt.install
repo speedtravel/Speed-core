@@ -1,0 +1,6 @@
+usr/local/bin/speed-qt usr/bin
+share/pixmaps/speed32.xpm usr/share/pixmaps
+share/pixmaps/speed16.xpm usr/share/pixmaps
+share/pixmaps/speed128.png usr/share/pixmaps
+debian/speed-qt.desktop usr/share/applications
+debian/speed-qt.protocol usr/share/kde4/services/
